@@ -3,10 +3,13 @@ All animations were originally made for 1/60fps with a specific playtime, but th
 
 Header:  Animation Name: Frame Pattern: Animation Speed
 
+Walking Frame Size: 50x50 pixels
 Down Walking Cycle: 1 2 3 2 1 4 5 4: 1/60fps 83ms   //first line of sprites in the playerSpriteSheet
 Right Walking Cycle: 1 2 3 2 1 4 5 4: 1/60fps 83ms
 Left Walking Cycle: 1 2 3 2 1 4 5 4: 1/60fps 83ms
 Up Walking Cycle: 1 2 3 2 1 4 5 4: 1/60fps 83ms
+
+Attacking Frame Size: 100x100 pixels
 Down Sword Attacking Animation: 1 2 3 4 5 6: 1/60fps 50ms
 Left Sword Attacking Animation: 1 2 3 4 5 6: 1/60fps 50ms
 Right Sword Attacking Animation: 1 2 3 4 5 6: 1/60fps 50ms
